@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vaultify-app/static/js/main.17a47723.js",
+    "main.js": "/vaultify-app/static/js/main.f3b14e37.js",
     "index.html": "/vaultify-app/index.html",
-    "main.17a47723.js.map": "/vaultify-app/static/js/main.17a47723.js.map"
+    "main.f3b14e37.js.map": "/vaultify-app/static/js/main.f3b14e37.js.map"
   },
   "entrypoints": [
-    "static/js/main.17a47723.js"
+    "static/js/main.f3b14e37.js"
   ]
 }
