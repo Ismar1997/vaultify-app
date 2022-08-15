@@ -1,6 +1,10 @@
 
 # Vaultify     
 
+- [About](#about)
+- [Getting Started with the App](#getting-started-with-the-app)
+
+## About
 
 ![logo](https://user-images.githubusercontent.com/66185833/184632890-5e34d267-6f8a-45e0-8988-c0a7a027ba48.png)
 
@@ -23,12 +27,13 @@
 **Libraries, packages and frameworks**  that are used for this project : 
 - `styled-components`
 - `react-slick`
-  
+
+ Website is also avaliable on GitHub Pages on this link : /https://ismar1997.github.io/vaultify-app/
   
   
   
 
-# Starting with an app
+# Getting Started with the App
 
   
 
