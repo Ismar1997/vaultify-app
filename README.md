@@ -8,7 +8,8 @@
 **Vaultify** is site that represents how one **data-securing** provider website should look like. It uses a lot of animations and interesting fonts so it easy for people who want to use this kind of website layout to udnerstand what is the service that is provided and what it is all about. 
 
 
-![Vaultify logo](../../PROJEKTI/vaultify-app/public/assets/vaultify-screenshot.png "Vaultify logo")
+![vaultify-screenshot](https://user-images.githubusercontent.com/66185833/184630897-05bc7587-e795-4e94-8c13-5e5fe18879fd.png)
+
 
 
 **Technologies**  that are used for this project :
