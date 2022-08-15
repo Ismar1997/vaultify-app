@@ -2,7 +2,8 @@
 # Vaultify     
 
 
-![Vaultify logo](../vaultify-app/build/assets/logo.png "Vaultify logo")
+![logo](https://user-images.githubusercontent.com/66185833/184632890-5e34d267-6f8a-45e0-8988-c0a7a027ba48.png)
+
 
 
 **Vaultify** is site that represents how one **data-securing** provider website should look like. It uses a lot of animations and interesting fonts so it easy for people who want to use this kind of website layout to udnerstand what is the service that is provided and what it is all about. 
