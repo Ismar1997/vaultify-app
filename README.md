@@ -13,7 +13,6 @@
 
 **Technologies**  that are used for this project :
 - `HTML`
-- `CSS`
 - `Javascript`
 - `React`
 
