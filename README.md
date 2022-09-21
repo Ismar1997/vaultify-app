@@ -1,6 +1,7 @@
 
 # Vaultify     
 
+<<<<<<< HEAD
 
 ![Vaultify logo](../vaultify-app/build/assets/logo.png "Vaultify logo")
 
@@ -9,11 +10,30 @@
 
 
 ![Vaultify logo](../../PROJEKTI/vaultify-app/public/assets/vaultify-screenshot.png "Vaultify logo")
+=======
+- [About](#about)
+- [Getting Started with the App](#getting-started-with-the-app)
+
+## About
+
+![logo](https://user-images.githubusercontent.com/66185833/184632890-5e34d267-6f8a-45e0-8988-c0a7a027ba48.png)
+
+
+
+**Vaultify** is site that represents how one **data-securing** provider website should look like. It uses a lot of animations and interesting fonts so it easy for people who want to use this kind of website layout to understand what is the service that is provided and what it is all about. 
+
+
+![vaultify-screenshot](https://user-images.githubusercontent.com/66185833/184630897-05bc7587-e795-4e94-8c13-5e5fe18879fd.png)
+
+>>>>>>> 296e668abd50fe2362b10a344a71314c3a487c56
 
 
 **Technologies**  that are used for this project :
 - `HTML`
+<<<<<<< HEAD
 - `CSS`
+=======
+>>>>>>> 296e668abd50fe2362b10a344a71314c3a487c56
 - `Javascript`
 - `React`
 
@@ -22,12 +42,21 @@
 **Libraries, packages and frameworks**  that are used for this project : 
 - `styled-components`
 - `react-slick`
+<<<<<<< HEAD
   
+=======
+
+ Website is also avaliable on GitHub Pages on this link : /https://ismar1997.github.io/vaultify-app/
+>>>>>>> 296e668abd50fe2362b10a344a71314c3a487c56
   
   
   
 
+<<<<<<< HEAD
 # Starting with an app
+=======
+# Getting Started with the App
+>>>>>>> 296e668abd50fe2362b10a344a71314c3a487c56
 
   
 
@@ -165,4 +194,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
   
 
+<<<<<<< HEAD
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>>>>>>> 296e668abd50fe2362b10a344a71314c3a487c56
